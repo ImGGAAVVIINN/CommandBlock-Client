@@ -1,2 +1,2 @@
 # CommandBlock-Client
-A Fabric modpack hacked client
+A Fabric modpack hacked client (Still in devlopment)
