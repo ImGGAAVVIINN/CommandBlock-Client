@@ -1,0 +1,1140 @@
+{
+    "Command": {
+        "macros": [],
+        "prefix": "-"
+    },
+    "Hacks": {
+        "NoSlowDown": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "AutoSprint": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "AirInteract": {
+            "Red": 0.69,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Blue": 0.69,
+            "Line Alpha": 1,
+            "Enabled": false,
+            "Fill Alpha": 0.24,
+            "Place Delay": 4,
+            "Green": 0.69
+        },
+        "ChatSuffix": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Flight": {
+            "Speed": 5,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Mode": "VELOCITY",
+            "Enabled": false
+        },
+        "AutoTrap": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Rotate": true,
+            "Packet Place": true,
+            "Blocks Per Tick": 8,
+            "Mode": "FULL",
+            "Enabled": false,
+            "Range": 5,
+            "Delay": 2
+        },
+        "ReloadSoundSys": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "PacketMine": {
+            "Bind": "NONE",
+            "Fill": 0.24,
+            "Is Visible": true,
+            "Silent On": "BLOCKUPDATE",
+            "qGreen": 0,
+            "Rotate": true,
+            "Blue": 0,
+            "Mode": "UPDATE",
+            "Color": false,
+            "Enabled": false,
+            "AutoSwitch": "SILENT",
+            "Swing Type": "PACKET",
+            "qFill": 0.24,
+            "Spam": true,
+            "Red": 0,
+            "Line": 1,
+            "qBlue": 0,
+            "qRed": 1,
+            "Update Client": false,
+            "qLine": 1,
+            "Spam Swing": false,
+            "Queue": true,
+            "Green": 1,
+            "Queue Color": false
+        },
+        "Criticals": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "SafeWalk": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "FullBright": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Mode": "GAMMA",
+            "Enabled": false
+        },
+        "AntiHitbox": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Coordinates": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Rainbow": false,
+            "Enabled": false
+        },
+        "EntitySpeed": {
+            "Speed": 2,
+            "Bind": "NONE",
+            "Fly": false,
+            "Is Visible": true,
+            "onGround": false,
+            "Enabled": false
+        },
+        "HotbarReplenish": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Poll Rate": 2
+        },
+        "AutoReconnect": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Delay": 1
+        },
+        "BedAura": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "No Gapple Switch": false,
+            "Replenish Slot": 8,
+            "Packet Place": true,
+            "Render While Air": false,
+            "Line Weight": 2,
+            "Blue": 0.45,
+            "Line Alpha": 1,
+            "1.12": false,
+            "Enabled": false,
+            "Fill Alpha": 0.24,
+            "Replenish": true,
+            "Red": 1,
+            "Target": "CLOSEST",
+            "Place Range": 5,
+            "Show Render Options": false,
+            "Dmg Calc Mode": "DISTANCE",
+            "Silent Switch": true,
+            "Break Delay": 1,
+            "Minimum Damage": 7.5,
+            "Place Delay": 12,
+            "Green": 1,
+            "Break Range": 5
+        },
+        "Capes": {
+            "Bind": "NONE",
+            "Is Visible": false,
+            "Enabled": true
+        },
+        "NoForceLook": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "AntiOverlay": {
+            "Water": true,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Blocks": true,
+            "Fire": true,
+            "Enabled": false
+        },
+        "OffhandGap": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "While AutoCrystal": true
+        },
+        "AutoCity": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "1.13+": true,
+            "Instant": true,
+            "Enabled": false,
+            "Mine Burrow First": true,
+            "Skip Mine Queue": false
+        },
+        "ElytraFly": {
+            "Speed": 0.9,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "EzTakeoff": true,
+            "Fall Speed": "0.000100000002",
+            "Mode": "BOOST",
+            "Enabled": false,
+            "Spoof Pitch": false
+        },
+        "Scaffold": {
+            "AirPlace": true,
+            "Radius": 0,
+            "Bind": "NONE",
+            "Down": false,
+            "Is Visible": true,
+            "Rotate": true,
+            "Clip Delay": 128,
+            "Enabled": false,
+            "Return Velocity": 20,
+            "Force AirPlace": false,
+            "Packet Tower": false,
+            "Packet Return To Ground": false,
+            "Return Delay": 7,
+            "Tower": true,
+            "Blocks P. Tick": 1,
+            "Jump Velocity": 42
+        },
+        "PlayerPreview": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Enabled": false
+        },
+        "TextShadow": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "ClickGui": {
+            "Red": 0.7,
+            "Bind": "SEMICOLON",
+            "Is Visible": true,
+            "Custom Menu": false,
+            "Blue": 0.03,
+            "Rainbow": false,
+            "Enabled": false,
+            "Font": "MONO",
+            "Green": 0.03
+        },
+        "Jesus": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Offset": 0
+        },
+        "DebugCrosshair": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Burrow": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Rotate": true,
+            "Backup": "EnderChest",
+            "Hole Only": false,
+            "Enabled": false,
+            "Use Timer": true,
+            "Packet Height": 12,
+            "Toggle Surround On": false,
+            "FakeJump": true,
+            "Rubberband": "Packet",
+            "TPS": 2500,
+            "Trigger Height": 1.12,
+            "Block": "Obsidian"
+        },
+        "SelfTrap": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Packet Place": true,
+            "Rotate": true,
+            "Blocks Per Tick": 2,
+            "Cev": true,
+            "Mode": "FULL",
+            "Enabled": false,
+            "Snap": true,
+            "Delay": 2
+        },
+        "NoBreakReset": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "CrystalAura": {
+            "Bind": "NONE",
+            "1.13+": true,
+            "Page": "GENERAL",
+            "Break On Spawn": true,
+            "Interact At": "CLOSEST_POINT",
+            "Retry After": 4,
+            "Target": "CLOSEST",
+            "Anti-Surround": true,
+            "Offh. Break Delay": 2,
+            "Dmg Calc Mode": "DAMAGE",
+            "Pause On Pot": true,
+            "Pause On XP": true,
+            "Retry Failed Crystals": true,
+            "Minimum Damage": 7.5,
+            "Break Delay": 2,
+            "Break Mode": "SMART",
+            "Predict Movement": true,
+            "Break Range": 5,
+            "Order": "PLACE_BREAK",
+            "Strict Sides": false,
+            "Is Visible": true,
+            "No Gapple Switch": false,
+            "Line Weight": 2.4,
+            "Pause On Eat": true,
+            "Blue": 0,
+            "Line Alpha": 1,
+            "Break Age": 0,
+            "Enabled": false,
+            "Fill Alpha": 0.24,
+            "Rotations": "PACKET",
+            "Red": 0.69,
+            "Place Range": 5,
+            "Switch": "NORMAL",
+            "Pause On Mine": false,
+            "Prevent Suicide": true,
+            "Offh. Place Delay": 2,
+            "Place Delay": 2,
+            "Green": 0,
+            "Break Attempts": 3
+        },
+        "AntiLevitation": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Surround": {
+            "AirPlace": true,
+            "Bind": "NONE",
+            "Center": true,
+            "Is Visible": true,
+            "Rotate": true,
+            "Packet Place": true,
+            "Enabled": false,
+            "Delay": 0,
+            "Boss": "NONE",
+            "Only On Ground": false,
+            "Force AirPlace": false,
+            "Render Finished": true,
+            "All BP Blocks": true,
+            "Center Delay": 0,
+            "Place on Crystal": true,
+            "Main": "Obsidian",
+            "Render Alpha": 40
+        },
+        "ESP": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Bots": false,
+            "Teammates": true,
+            "Passive": true,
+            "Friends": true,
+            "Mode": "BOX",
+            "Color": "RED",
+            "Enabled": false,
+            "Nametagged": true,
+            "Players": true,
+            "Hostile": true
+        },
+        "NoFog": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "BurrowDetect": {
+            "Red": 0.6,
+            "Radius": 20,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Blue": 0.6,
+            "Render": true,
+            "Enabled": false,
+            "Fill Alpha": 0.24,
+            "Box Alpha": 1,
+            "Notification": true,
+            "Green": 0
+        },
+        "TotemCount": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Enabled": false
+        },
+        "ServerCrasher": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Mode": "BOOK",
+            "Enabled": false
+        },
+        "VisualRange": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "NoWeather": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "HighJump": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Multiplier": 1.5,
+            "Enabled": false
+        },
+        "FakeRotation": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "FireworkAura": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Rotate": true,
+            "Enabled": false,
+            "Trap": 2,
+            "Range": 5,
+            "Delay": 1
+        },
+        "AutoEz": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Message": "ARES_OWNS_ME",
+            "Enabled": false,
+            "Custom": "ez"
+        },
+        "PacketCancel": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "UpdatePlayerAbilitiesC2SPacket": true,
+            "PlayerActionC2SPacket": true,
+            "HandSwingC2SPacket": true,
+            "Enabled": false,
+            "VehicleMoveC2SPacket": true,
+            "PlayerMoveC2SPacket": true,
+            "PlayerInputC2SPacket": true,
+            "PlayerInteractItemC2SPacket": true,
+            "PlayerInteractEntityC2SPacket": true,
+            "PlayerInteractBlockC2SPacket": true
+        },
+        "BowRelease": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Delay": 20
+        },
+        "AutoArmor": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "RotationManager": {
+            "Bind": "NONE",
+            "Is Visible": false,
+            "Enabled": true,
+            "Reset Delay": 20,
+            "Render Body Yaw": true
+        },
+        "InventoryMove": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "PlayerList": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Health": true,
+            "Enabled": false,
+            "Distance": true
+        },
+        "HopperAura": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Rotate": true,
+            "Enabled": false,
+            "Lock Rotations": false,
+            "Break Own": false,
+            "Distance": 5
+        },
+        "NoClip": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "ExtraTab": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Size": 300,
+            "Enabled": false
+        },
+        "AntiGhostBlock": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "LiquidInteract": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "SecretClose": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Search": {
+            "Red": 0.54,
+            "Radius": 80,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Blue": 0.03,
+            "Rainbow": false,
+            "Enabled": false,
+            "Blocks-fabric": [
+                151,
+                209,
+                275
+            ],
+            "Delay": 60,
+            "Green": 0.03,
+            "Tracers": false
+        },
+        "Baritone": {
+            "Bind": "NONE",
+            "Allow Sprint": true,
+            "Is Visible": false,
+            "Avoid Portals": false,
+            "Render Goal": true,
+            "Manage Inventory": false,
+            "Allow Downward": true,
+            "Enabled": true,
+            "Allow Parkour Place": true,
+            "Allow Parkour": true,
+            "Allow Break": true,
+            "Freelook": true
+        },
+        "SoundPosLogger": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "DiscordRPC": {
+            "Bind": "NONE",
+            "Is Visible": false,
+            "Enabled": true
+        },
+        "AutoTool": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "End Crystals": false
+        },
+        "TotemPopCounter": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "NoArmorRender": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Shirt": true,
+            "Enabled": false,
+            "Pants": true,
+            "Hat": true,
+            "Shoes": true
+        },
+        "LagNotifier": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Max Ticks": 40,
+            "Reconnect Message": true,
+            "Enabled": false,
+            "Draw Overlay": true,
+            "Chat Message": false
+        },
+        "BoatFly": {
+            "Speed": 0.9,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Phase": false,
+            "Bypass": false,
+            "Fall Speed": 0,
+            "Bypass Interval": 2,
+            "Enabled": false
+        },
+        "AutoWalk": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Mode": "SMART",
+            "Enabled": false
+        },
+        "CrystalCount": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Enabled": false
+        },
+        "InstantMine": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Line Weight": 2,
+            "Blue": 1,
+            "Line Alpha": 1,
+            "Enabled": false,
+            "Fill Alpha": 0.63,
+            "Repeat": true,
+            "Repeat Range": 5,
+            "Auto Switch": false,
+            "Only Pickaxe": true,
+            "Delay": 2,
+            "Red": 0,
+            "Show Render Options": false,
+            "Swing": "Real",
+            "Green": 0
+        },
+        "ChestCount": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Rainbow": false,
+            "Enabled": false
+        },
+        "RotationLock": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Direction": "CUSTOM"
+        },
+        "BlockHighlight": {
+            "Red": 1,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Blue": 0,
+            "Alpha": 0.8,
+            "Enabled": false,
+            "Breaking Only": false,
+            "Width": 2,
+            "Green": 0
+        },
+        "PacketFly": {
+            "Bind": "NONE",
+            "Stablilise": false,
+            "Is Visible": true,
+            "Bounds": "ALTERNATE",
+            "Enabled": false
+        },
+        "AutoSign": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Line 4": "",
+            "Enabled": false,
+            "Line 3": "on top!",
+            "Line 2": "Ares Client",
+            "Line 1": ""
+        },
+        "ModuleList": {
+            "Order": "LENGTH",
+            "Bind": "NONE",
+            "Is Visible": false,
+            "Background": "NONE",
+            "Rainbow": false,
+            "Enabled": true
+        },
+        "ChestESP": {
+            "Bind": "NONE",
+            "Chests/Barrels": true,
+            "C. Fill Alpha": 0.24,
+            "C. Line Alpha": 0.8,
+            "E. Fill Alpha": 0.24,
+            "E. Line Alpha": 0.8,
+            "E. Green": 0,
+            "C. Green": 0,
+            "D. Green": 0.65,
+            "Ender Chests": true,
+            "Lump Together": true,
+            "C. Blue": 0.89,
+            "E. Red": 0.7,
+            "D. Fill Alpha": 0.24,
+            "D. Line Alpha": 0.8,
+            "D. Red": 0.65,
+            "Color Menu": "CHEST",
+            "E. Blue": 0.7,
+            "Is Visible": true,
+            "S. Fill Alpha": 0.24,
+            "S. Line Alpha": 0.8,
+            "S. Green": 0.45,
+            "Enabled": false,
+            "C. Red": 0,
+            "Shulkers": true,
+            "S. Red": 1,
+            "D. Blue": 0.65,
+            "S. Blue": 0.55,
+            "Other": true
+        },
+        "NoHurtShake": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "MultiTask": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Tracers": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Bots": false,
+            "Teammates": true,
+            "Passive": false,
+            "Friends": true,
+            "Enabled": false,
+            "Nametagged": false,
+            "Distance": true,
+            "Players": true,
+            "Hostile": false
+        },
+        "KillAura": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Auto Delay": true,
+            "Teammates": false,
+            "Passive": false,
+            "Weapon Only": true,
+            "Friends": false,
+            "Delay in ticks": 40,
+            "Enabled": false,
+            "Nametagged": true,
+            "Range": 5,
+            "Hostile": true,
+            "Bots": false,
+            "Players": true
+        },
+        "IceSpeed": {
+            "Speed": 0.4,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Chams": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Bots": false,
+            "Teammates": true,
+            "Passive": true,
+            "Friends": true,
+            "Enabled": false,
+            "Nametagged": true,
+            "Players": true,
+            "Hostile": true
+        },
+        "NoSwing": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Speedometer": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Rainbow": false,
+            "Average": true,
+            "Enabled": false,
+            "Unit": "KILOMETERS_PH",
+            "Update Interval": 10
+        },
+        "NoRender": {
+            "Bind": "NONE",
+            "Stop Particles": true,
+            "Is Visible": true,
+            "Enabled": false,
+            "Stop Explosions": true
+        },
+        "HoleESP": {
+            "OTH.Fill": 0.24,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "OB.Blue": 0.41,
+            "OTH.Green": 0.56,
+            "Mode": "OBBYANDBEDROCK",
+            "BR.Line": 1,
+            "Hole Radius": 10,
+            "BR.Blue": 0.58,
+            "OTH.Blue": 0.64,
+            "Enabled": false,
+            "BR.Red": 0,
+            "Obsidian Color": false,
+            "Bedrock Color": false,
+            "OB.Fill": 0.24,
+            "BR.Green": 1,
+            "OTH.Line": 1,
+            "Other Color": false,
+            "MaxY": 256,
+            "OB.Red": 1,
+            "BR.Fill": 0.24,
+            "OTH.Red": 0.48,
+            "OB.Line": 1,
+            "OB.Green": 0.38
+        },
+        "MsgOnToggle": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "ViewModel": {
+            "R. Main Y": 0,
+            "R. Main Z": 0,
+            "Bind": "NONE",
+            "S. Main Z": 3,
+            "R. Main X": 0,
+            "T. Main Z": 1.5,
+            "T. Main Y": -0.69,
+            "T. Main X": 0,
+            "S. Main X": 1.65,
+            "S. Main Y": 1,
+            "Separate Hands": false,
+            "S. Off Z": 3,
+            "R. Off X": 0,
+            "Translation": true,
+            "Is Visible": true,
+            "T. Off X": 0,
+            "T. Off Z": 1.5,
+            "S. Off X": 1.65,
+            "R. Off Z": 0,
+            "T. Off Y": -0.69,
+            "S. Off Y": 1,
+            "R. Off Y": 0,
+            "Enabled": false,
+            "Scale": true,
+            "Rotation": true
+        },
+        "NoBreakDelay": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "AntiHunger": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "InvPreview": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Enabled": false
+        },
+        "PortalChat": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "Offhand": {
+            "Item": "CRYSTAL",
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Stay On": true,
+            "Enabled": false,
+            "Minimum Health": 10
+        },
+        "Armor": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Background": "NONE",
+            "Enabled": false
+        },
+        "Speed": {
+            "Jump Height": 0.42,
+            "Bind": "NONE",
+            "Ground Speed": 1,
+            "Is Visible": true,
+            "Mode": "STRAFE",
+            "Enabled": false,
+            "YPort Speed": 1.75,
+            "Strafe Speed": 0.38,
+            "Jump": true
+        },
+        "HoleFiller": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Skip closest": true,
+            "Rotate": true,
+            "Packet Place": true,
+            "Enabled": false,
+            "Range": 5
+        },
+        "AutoTotem": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Soft": false
+        },
+        "Blink": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "MobOwner": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "FastPlace": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Whitelist": "ALL"
+        },
+        "Trajectories": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Block-Outline": false,
+            "Line Weight": 3,
+            "Enabled": false
+        },
+        "NameTags": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Max": 2,
+            "Enabled": false,
+            "Scale": 4
+        },
+        "Velocity": {
+            "Vertical": 0,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Horizontal": 0,
+            "Enabled": false
+        },
+        "CameraClip": {
+            "Clip": true,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Distance": 3.5,
+            "Modify Distance": true
+        },
+        "AntiBedAura": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Rotate": true,
+            "Enabled": false
+        },
+        "Anchor": {
+            "Speed": 10,
+            "Pitch Cutoff": 18,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false,
+            "Max Distance": 5
+        },
+        "Timer": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "TPS": 25,
+            "Enabled": false
+        },
+        "Freecam": {
+            "Speed": 1,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Cancel Packets": true,
+            "Enabled": false
+        },
+        "MapTooltips": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        },
+        "AutoSurround": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "When in hole": true,
+            "On totem pop": false,
+            "Enabled": false,
+            "Hole D.(ms)": 250,
+            "Hole Center": false,
+            "Totem Center": true
+        },
+        "CustomFOV": {
+            "Horizontal FOV": 0,
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Original FOV Degree": 0,
+            "Enabled": false,
+            "Vertical FOV": 120,
+            "Original FOV": 90,
+            "FOV Effect Degree": 0
+        },
+        "Watermark": {
+            "Bind": "NONE",
+            "Is Visible": false,
+            "Background": "NONE",
+            "Rainbow": false,
+            "Enabled": true,
+            "Version Number": true,
+            "Logo": true
+        },
+        "PortalGodMode": {
+            "Bind": "NONE",
+            "Is Visible": true,
+            "Enabled": false
+        }
+    },
+    "Hud": {
+        "ChestCount": {
+            "x": 100,
+            "width": 0,
+            "y": 60,
+            "height": 5
+        },
+        "InvPreview": {
+            "x": 100,
+            "width": 168,
+            "y": 1,
+            "height": 56
+        },
+        "LagNotifier": {
+            "x": 0,
+            "width": 0,
+            "y": 0,
+            "height": 0
+        },
+        "PlayerList": {
+            "x": 100,
+            "width": 0,
+            "y": 70,
+            "height": 0
+        },
+        "Armor": {
+            "x": 320,
+            "width": 76,
+            "y": 1,
+            "height": 17
+        },
+        "Coordinates": {
+            "x": 100,
+            "width": 10,
+            "y": 100,
+            "height": 5
+        },
+        "CrystalCount": {
+            "x": 290,
+            "width": 18,
+            "y": 1,
+            "height": 18
+        },
+        "Speedometer": {
+            "x": 150,
+            "width": 0,
+            "y": 60,
+            "height": 0
+        },
+        "TotemCount": {
+            "x": 270,
+            "width": 18,
+            "y": 1,
+            "height": 18
+        },
+        "ModuleList": {
+            "x": 0,
+            "width": 20,
+            "y": 50,
+            "height": 0
+        },
+        "Watermark": {
+            "x": 0,
+            "width": 75,
+            "y": 0,
+            "height": 48
+        },
+        "PlayerPreview": {
+            "x": 300,
+            "width": 25,
+            "y": 100,
+            "height": 25
+        }
+    },
+    "GUI": {
+        "Modules": {
+            "x": 0.03,
+            "y": 0.1,
+            "open": true
+        },
+        "Console": {
+            "x": 0.64,
+            "y": 0.1,
+            "open": false
+        },
+        "Welcome": {
+            "x": 0.4,
+            "y": 0.35,
+            "open": true
+        },
+        "Modules (EXPANDED)": {
+            "PLAYER": {
+                "x": 0.04,
+                "y": 0.26,
+                "open": false
+            },
+            "COMBAT": {
+                "x": 0.04,
+                "y": 0.1,
+                "open": false
+            },
+            "HUD": {
+                "x": 0.04,
+                "y": 0.18,
+                "open": false
+            },
+            "EXPLOIT": {
+                "x": 0.04,
+                "y": 0.14,
+                "open": false
+            },
+            "MOVEMENT": {
+                "x": 0.04,
+                "y": 0.22,
+                "open": false
+            },
+            "RENDER": {
+                "x": 0.04,
+                "y": 0.30000000000000004,
+                "open": false
+            },
+            "MISC": {
+                "x": 0.04,
+                "y": 0.34,
+                "open": false
+            },
+            "x": 0,
+            "y": 0,
+            "open": false
+        }
+    }
+}

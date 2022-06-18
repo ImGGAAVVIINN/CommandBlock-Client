@@ -1,0 +1,80 @@
+[21:58:14] [main/INFO]: Loading for game Minecraft 1.17.1
+[21:58:15] [main/INFO]: [FabricLoader] Loading 6 mods:
+	- ares@2.9
+	- baritone@1.7.0
+	- fabricloader@0.11.7
+	- java@16
+	- meteor-client@0.4.5
+	- minecraft@1.17.1
+[21:58:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/ascend/Documents/GitHub/CommandBlock-Client/libraries/net/fabricmc/sponge-mixin/0.9.4+mixin.0.8.2/sponge-mixin-0.9.4+mixin.0.8.2.jar Service=Knot/Fabric Env=CLIENT
+[21:58:15] [main/INFO]: Compatibility level set to JAVA_16
+[21:58:16] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
+[21:58:16] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess was not found meteor-client-sodium.mixins.json:LightDataAccessMixin
+[21:58:16] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/occlusion/BlockOcclusionCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/occlusion/BlockOcclusionCache)
+[21:58:16] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.occlusion.BlockOcclusionCache was not found meteor-client-sodium.mixins.json:SodiumBlockOcculsionCacheMixin
+[21:58:16] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
+[21:58:16] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.pipeline.BlockRenderer was not found meteor-client-sodium.mixins.json:SodiumBlockRendererMixin
+[21:58:16] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/FluidRenderer)
+[21:58:16] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.pipeline.FluidRenderer was not found meteor-client-sodium.mixins.json:SodiumFluidRendererMixin
+[21:58:17] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/world/SodiumChunkManager (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/world/SodiumChunkManager)
+[21:58:17] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/util/collections/FixedLongHashTable (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/util/collections/FixedLongHashTable)
+[21:58:17] [main/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/render/AbstractQuadRenderer (java.lang.ClassNotFoundException: net/fabricmc/fabric/impl/client/indigo/renderer/render/AbstractQuadRenderer)
+[21:58:17] [main/WARN]: @Mixin target net.fabricmc.fabric.impl.client.indigo.renderer.render.AbstractQuadRenderer was not found meteor-client-indigo.mixins.json:AbstractQuadRendererMixin
+[21:58:17] [main/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/render/TerrainRenderContext (java.lang.ClassNotFoundException: net/fabricmc/fabric/impl/client/indigo/renderer/render/TerrainRenderContext)
+[21:58:17] [main/WARN]: @Mixin target net.fabricmc.fabric.impl.client.indigo.renderer.render.TerrainRenderContext was not found meteor-client-indigo.mixins.json:TerrainRenderContextMixin
+[21:58:17] [main/WARN]: Error loading class: grondag/canvas/render/world/CanvasWorldRenderer (java.lang.ClassNotFoundException: grondag/canvas/render/world/CanvasWorldRenderer)
+[21:58:17] [main/WARN]: @Mixin target grondag.canvas.render.world.CanvasWorldRenderer was not found meteor-client-canvas.mixins.json:CanvasWorldRendererMixin
+[21:58:31] [Render thread/INFO]: Environment: ElyEnvironment[name=ely,authHost=https://authserver.ely.by/auth,accountsHost=https://account.ely.by/api/mojang,sessionHost=https://account.ely.by/api/minecraft/session,servicesHost=<null>]
+[21:58:31] [Render thread/INFO]: Setting user: TestUser
+[21:58:31] [Render thread/INFO]: 
+_____________________________________________
+|   $$$$                                    |
+|  $$  $$                                   |
+| $$    $$     $$$$$$$   $$$$$$$$    $$$$$$$|
+|$$      $$    $$        $$    $$   $$      |
+|$$      $$    $$        $$$$$$$$   $$$$$$$$|
+|$$      $$    $$        $$               $$|
+|$$      $$    $$        $$$$$$$$   $$$$$$$ |
+|___________________________________________|
+
+[21:58:31] [Render thread/INFO]: Loading Ares...
+[21:58:36] [Render thread/INFO]: 115 modules loaded successfully
+[21:58:36] [Render thread/INFO]: 11 commands loaded successfully
+[21:58:36] [Render thread/INFO]: Successfully read friends: []
+[21:58:36] [Render thread/INFO]: Ares Client loaded in 5254 milliseconds
+[21:58:37] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[21:58:39] [Render thread/WARN]: Removed resource pack Fabric Mods from options because it doesn't seem to exist anymore
+[21:58:42] [Render thread/INFO]: Narrator library successfully loaded
+[21:58:42] [Render thread/INFO]: Reloading ResourceManager: Default
+[21:58:43] [Render thread/INFO]: [STDOUT]: Baritone settings file not found, resetting.
+[21:58:44] [Render thread/INFO]: Initializing Meteor Client
+[21:58:44] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:58:45] [pool-6-thread-1/INFO]: [STDERR]: net.minecraft.class_151: Non [a-z0-9/._-] character in path of location: meteor-client:capes/account_1w89VIDiVzRFjwzQ6Ltzrj94LZg
+[21:58:45] [pool-6-thread-1/INFO]: [STDERR]: 	at net.minecraft.class_2960.<init>(class_2960.java:41)
+[21:58:45] [pool-6-thread-1/INFO]: [STDERR]: 	at net.minecraft.class_2960.<init>(class_2960.java:50)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at meteordevelopment.meteorclient.utils.network.Capes$Cape.<init>(Capes.java:112)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at meteordevelopment.meteorclient.utils.network.Capes.lambda$init$0(Capes.java:48)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at meteordevelopment.meteorclient.utils.network.Capes.lambda$init$2(Capes.java:43)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+[21:58:46] [pool-6-thread-1/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[21:58:49] [Render thread/INFO]: Loading
+[21:58:50] [Render thread/INFO]: Loaded in 231 milliseconds
+[21:58:58] [Render thread/INFO]: OpenAL initialized.
+[21:58:58] [Render thread/INFO]: Sound engine started
+[21:59:00] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[21:59:00] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[21:59:00] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:59:00] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:59:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:59:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:59:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:59:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:59:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:59:05] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:59:08] [Render thread/INFO]: Checking latest version of Meteor Client
+[21:59:27] [Render thread/INFO]: Stopping!
+[21:59:27] [Thread-10/INFO]: Saving
