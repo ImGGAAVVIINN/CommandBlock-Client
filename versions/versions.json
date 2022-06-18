@@ -128,12 +128,6 @@
       "time": "2022-06-15T16:13:27Z"
     },
     {
-      "id": "fabric-loader-0.11.7-1.18.2",
-      "type": "release",
-      "releaseTime": "2022-02-28T10:42:45Z",
-      "time": "2022-06-18T11:53:24.297Z"
-    },
-    {
       "id": "Fabric 1.18.2",
       "type": "modified",
       "releaseTime": "2022-02-28T10:42:45Z",
@@ -464,10 +458,10 @@
       "time": "2021-07-13T12:54:19Z"
     },
     {
-      "id": "fabric-loader-0.11.7-1.17.1",
+      "id": "CommandBlock Client",
       "type": "release",
       "releaseTime": "2021-07-06T12:01:34Z",
-      "time": "2021-07-06T12:01:34Z"
+      "time": "2022-06-18T11:58:10.835Z"
     },
     {
       "id": "OptiFine 1.17.1",
@@ -684,12 +678,6 @@
       "type": "snapshot",
       "releaseTime": "2021-01-20T14:56:29Z",
       "time": "2022-06-07T08:08:11Z"
-    },
-    {
-      "id": "fabric-loader-0.11.7-1.16.5",
-      "type": "release",
-      "releaseTime": "2021-01-14T16:05:32Z",
-      "time": "2022-06-18T11:49:45.911Z"
     },
     {
       "id": "Fabric 1.16.5",
